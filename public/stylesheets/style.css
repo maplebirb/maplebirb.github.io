@@ -1,0 +1,351 @@
+#map-image {
+    max-width: 100%;
+    position: relative;
+    z-index: -1;
+}
+
+#node1 {
+    top: 24.1%;
+    left: 16.6%;
+}
+#node2 {
+    top: 21.2%;
+    left: 21.85%;
+}
+#node3 {
+    top: 18.75%;
+    left: 26.55%;
+}
+#node4 {
+    top: 15.9%;
+    left: 31.35%;
+}
+#node5 {
+    top: 32.9%;
+    left: 12.6%;
+}
+#node6 {
+    top: 14.2%;
+    left: 35.6%;
+}
+#node7 {
+    top: 29.2%;
+    left: 19.3%;
+}
+#node8 {
+    top: 26%;
+    left: 24.6%;
+}
+#node9 {
+    top: 23.45%;
+    left: 29.5%;
+}
+#node10 {
+    top: 20.25%;
+    left: 34.3%;
+}
+#node11 {
+    top: 18.25%;
+    left: 38.9%;
+}
+#node12 {
+    top: 14.9%;
+    left: 44.1%;
+}
+#node13 {
+    top: 42.2%;
+    left: 10.2%;
+}
+#node14 {
+    top: 39.1%;
+    left: 15.65%;
+}
+#node15 {
+    top: 34.5%;
+    left: 22.1%;
+}
+#node16 {
+    top: 30.9%;
+    left: 27.7%;
+}
+#node17 {
+    top: 28.4%;
+    left: 32.2%;
+}
+#node18 {
+    top: 25%;
+    left: 37.8%;
+}
+#node19 {
+    top: 22.3%;
+    left: 42.4%;
+}
+#node20 {
+    top: 18.7%;
+    left: 47.6%;
+}
+#node21 {
+    top: 16.3%;
+    left: 51.6%;
+}
+#node22 {
+    top: 44.2%;
+    left: 17.8%;
+}
+#node22 {
+    top: 44.4%;
+    left: 17.8%;
+}
+#node23 {
+    top: 40%;
+    left: 24.6%;
+}
+#node24 {
+    top: 26.4%;
+    left: 45.9%;
+}
+#node25 {
+    top: 23.1%;
+    left: 51%;
+}
+#node26 {
+    top: 20.2%;
+    left: 55.7%;
+}
+#node27 {
+    top: 53.6%;
+    left: 14.95%;
+}
+#node28 {
+    top: 50.2%;
+    left: 20.7%;
+}
+#node29 {
+    top: 45.5%;
+    left: 27%;
+}
+#node30 {
+    top: 30.9%;
+    left: 49.9%;
+}
+#node31 {
+    top: 27.4%;
+    left: 54.9%;
+}
+#node32 {
+    top: 23.85%;
+    left: 59.2%;
+}
+#node33 {
+    top: 59.4%;
+    left: 17.5%;
+}
+#node34 {
+    top: 55.6%;
+    left: 23.4%;
+}
+#node35 {
+    top: 51.4%;
+    left: 30%;
+}
+#node36 {
+    top: 35.05%;
+    left: 53.4%;
+}
+#node37 {
+    top: 31%;
+    left: 57.9%;
+}
+#node38 {
+    top: 27.7%;
+    left: 62.7%;
+}
+#node39 {
+    top: 64.6%;
+    left: 20.4%;
+}
+#node40 {
+    top: 60.2%;
+    left: 26.5%;
+}
+#node41 {
+    top: 55.7%;
+    left: 33%;
+}
+#node42 {
+    top: 38.5%;
+    left: 56.8%;
+}
+#node43 {
+    top: 34.7%;
+    left: 61.1%;
+}
+#node44 {
+    top: 30.9%;
+    left: 65.5%;
+}
+#node45 {
+    top: 69.4%;
+    left: 22.9%;
+}
+#node46 {
+    top: 65%;
+    left: 29.35%;
+}
+#node47 {
+    top: 60.4%;
+    left: 35.9%;
+}
+#node48 {
+    top: 42.9%;
+    left: 59.8%;
+}
+#node49 {
+    top: 38.8%;
+    left: 64.5%;
+}
+#node50 {
+    top: 34.9%;
+    left: 68.6%;
+}
+#node51 {
+    top: 75.5%;
+    left: 26.1%;
+}
+#node52 {
+    top: 71.3%;
+    left: 32.7%;
+}
+#node53 {
+    top: 65.9%;
+    left: 39.5%;
+}
+#node54 {
+    top: 62.4%;
+    left: 46.85%;
+}
+#node55 {
+    top: 57.4%;
+    left: 53.4%;
+}
+#node56 {
+    top: 52.5%;
+    left: 59.6%;
+}
+#node57 {
+    top: 47.5%;
+    left: 64.2%;
+}
+#node58 {
+    top: 43.2%;
+    left: 68.2%;
+}
+#node59 {
+    top: 38.8%;
+    left: 72.4%;
+}
+#node60 {
+    top: 80.7%;
+    left: 29.2%;
+}
+#node61 {
+    top: 76.4%;
+    left: 36.3%;
+}
+#node62 {
+    top: 72.1%;
+    left: 43%;
+}
+#node63 {
+    top: 67.75%;
+    left: 49.9%;
+}
+#node64 {
+    top: 62.4%;
+    left: 57.1%;
+}
+#node65 {
+    top: 56.8%;
+    left: 62.9%;
+}
+#node66 {
+    top: 51.9%;
+    left: 67.6%;
+}
+#node67 {
+    top: 47.8%;
+    left: 71.7%;
+}
+#node68 {
+    top: 43.1%;
+    left: 75.3%;
+}
+#node69 {
+    top: 82.2%;
+    left: 39.3%;
+}
+#node70 {
+    top: 77.9%;
+    left: 46.1%;
+}
+#node71 {
+    top: 73.6%;
+    left: 53%;
+}
+#node72 {
+    top: 67.3%;
+    left: 60.5%;
+}
+#node73 {
+    top: 61.1%;
+    left: 66.8%;
+}
+#node74 {
+    top: 56.2%;
+    left: 71.5%;
+}
+#node75 {
+    top: 51.2%;
+    left: 75.2%;
+}
+#node76 {
+    top: 83.4%;
+    left: 50.4%;
+}
+#node77 {
+    top: 78.8%;
+    left: 56.8%;
+}
+#node78 {
+    top: 72.5%;
+    left: 64.3%;
+}
+#node79 {
+    top: 65.6%;
+    left: 70.7%;
+}
+#node80 {
+    top: 59.4%;
+    left: 74.8%;
+}
+
+
+.map {
+    position: relative;
+}
+
+.node {
+    width: 2.2%;
+    height: 2.5%;
+    border-radius: 50%;
+    position: absolute;
+    z-index: 1;
+}
+
+.hover {
+    background-color: rgba(117, 107, 211, 0.822);
+}
+
+.clicked {
+    background-color: rgba(89, 0, 190, 0.822);
+}
